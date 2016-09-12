@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/deniztetik/d3-mockups#readme",
   "dependencies": {
-    "d3": "^4.2.2"
+    "d3": "^4.2.2",
+    "xmldom": "^0.1.22"
   }
 }
